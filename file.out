@@ -1,0 +1,112 @@
+Token 1: PALRE Lexema: package Lexema1: package Lexema2: - - -
+Token 2: ID Lexema: Compilladores Lexema1: ID Lexema2: Compilladores
+Token 3: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 4: PALRE Lexema: public Lexema1: public Lexema2: - - -
+Token 5: PALRE Lexema: class Lexema1: class Lexema2: - - -
+Token 6: ID Lexema: Switch_Project Lexema1: ID Lexema2: Switch_Project
+Token 7: OPESP Lexema: { Lexema1: LLI Lexema2: - - -
+Token 8: PALRE Lexema: public Lexema1: public Lexema2: - - -
+Token 9: PALRE Lexema: static Lexema1: static Lexema2: - - -
+Token 10: PALRE Lexema: void Lexema1: void Lexema2: - - -
+Token 11: ID Lexema: main Lexema1: ID Lexema2: main
+Token 12: OPESP Lexema: ( Lexema1: PIZ Lexema2: - - -
+Token 13: PALRE Lexema: String Lexema1: String Lexema2: - - -
+Token 14: OPESP Lexema: [ Lexema1: COI Lexema2: - - -
+Token 15: OPESP Lexema: ] Lexema1: COD Lexema2: - - -
+Token 16: ID Lexema: args Lexema1: ID Lexema2: args
+Token 17: OPESP Lexema: ) Lexema1: PDE Lexema2: - - -
+Token 18: OPESP Lexema: { Lexema1: LLI Lexema2: - - -
+Token 19: PALRE Lexema: int Lexema1: int Lexema2: - - -
+Token 20: ID Lexema: dia Lexema1: ID Lexema2: dia
+Token 21: OPASI Lexema: = Lexema1: ASI Lexema2: - - -
+Token 22: NUM Lexema: 5 Lexema1: NUM Lexema2: 5
+Token 23: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 24: PALRE Lexema: String Lexema1: String Lexema2: - - -
+Token 25: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 26: OPASI Lexema: = Lexema1: ASI Lexema2: - - -
+Token 27: MSG Lexema: "Hoy es " Lexema1: MSG Lexema2: "Hoy es "
+Token 28: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 29: PALRE Lexema: switch Lexema1: switch Lexema2: - - -
+Token 30: OPESP Lexema: ( Lexema1: PIZ Lexema2: - - -
+Token 31: ID Lexema: dia Lexema1: ID Lexema2: dia
+Token 32: OPESP Lexema: ) Lexema1: PDE Lexema2: - - -
+Token 33: OPESP Lexema: { Lexema1: LLI Lexema2: - - -
+Token 34: PALRE Lexema: case Lexema1: case Lexema2: - - -
+Token 35: NUM Lexema: 1 Lexema1: NUM Lexema2: 1
+Token 36: OPESP Lexema: : Lexema1: DPU Lexema2: - - -
+Token 37: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 38: OPASI Lexema: += Lexema1: SUA Lexema2: - - -
+Token 39: MSG Lexema: "Lunes" Lexema1: MSG Lexema2: "Lunes"
+Token 40: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 41: PALRE Lexema: break Lexema1: break Lexema2: - - -
+Token 42: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 43: PALRE Lexema: case Lexema1: case Lexema2: - - -
+Token 44: NUM Lexema: 2 Lexema1: NUM Lexema2: 2
+Token 45: OPESP Lexema: : Lexema1: DPU Lexema2: - - -
+Token 46: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 47: OPASI Lexema: += Lexema1: SUA Lexema2: - - -
+Token 48: MSG Lexema: "Martes" Lexema1: MSG Lexema2: "Martes"
+Token 49: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 50: PALRE Lexema: break Lexema1: break Lexema2: - - -
+Token 51: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 52: PALRE Lexema: case Lexema1: case Lexema2: - - -
+Token 53: NUM Lexema: 3 Lexema1: NUM Lexema2: 3
+Token 54: OPESP Lexema: : Lexema1: DPU Lexema2: - - -
+Token 55: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 56: OPASI Lexema: += Lexema1: SUA Lexema2: - - -
+Token 57: MSG Lexema: "Miercoles" Lexema1: MSG Lexema2: "Miercoles"
+Token 58: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 59: PALRE Lexema: break Lexema1: break Lexema2: - - -
+Token 60: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 61: PALRE Lexema: case Lexema1: case Lexema2: - - -
+Token 62: NUM Lexema: 4 Lexema1: NUM Lexema2: 4
+Token 63: OPESP Lexema: : Lexema1: DPU Lexema2: - - -
+Token 64: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 65: OPASI Lexema: += Lexema1: SUA Lexema2: - - -
+Token 66: MSG Lexema: "Jueves" Lexema1: MSG Lexema2: "Jueves"
+Token 67: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 68: PALRE Lexema: break Lexema1: break Lexema2: - - -
+Token 69: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 70: PALRE Lexema: case Lexema1: case Lexema2: - - -
+Token 71: NUM Lexema: 5 Lexema1: NUM Lexema2: 5
+Token 72: OPESP Lexema: : Lexema1: DPU Lexema2: - - -
+Token 73: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 74: OPASI Lexema: += Lexema1: SUA Lexema2: - - -
+Token 75: MSG Lexema: "Viernes" Lexema1: MSG Lexema2: "Viernes"
+Token 76: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 77: PALRE Lexema: break Lexema1: break Lexema2: - - -
+Token 78: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 79: PALRE Lexema: case Lexema1: case Lexema2: - - -
+Token 80: NUM Lexema: 6 Lexema1: NUM Lexema2: 6
+Token 81: OPESP Lexema: : Lexema1: DPU Lexema2: - - -
+Token 82: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 83: OPASI Lexema: += Lexema1: SUA Lexema2: - - -
+Token 84: MSG Lexema: "Sabado" Lexema1: MSG Lexema2: "Sabado"
+Token 85: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 86: PALRE Lexema: break Lexema1: break Lexema2: - - -
+Token 87: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 88: PALRE Lexema: case Lexema1: case Lexema2: - - -
+Token 89: NUM Lexema: 7 Lexema1: NUM Lexema2: 7
+Token 90: OPESP Lexema: : Lexema1: DPU Lexema2: - - -
+Token 91: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 92: OPASI Lexema: += Lexema1: SUA Lexema2: - - -
+Token 93: MSG Lexema: "Domingo" Lexema1: MSG Lexema2: "Domingo"
+Token 94: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 95: PALRE Lexema: break Lexema1: break Lexema2: - - -
+Token 96: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 97: PALRE Lexema: default Lexema1: default Lexema2: - - -
+Token 98: OPESP Lexema: : Lexema1: DPU Lexema2: - - -
+Token 99: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 100: OPASI Lexema: += Lexema1: SUA Lexema2: - - -
+Token 101: MSG Lexema: " Dia invalido" Lexema1: MSG Lexema2: " Dia invalido"
+Token 102: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 103: PALRE Lexema: break Lexema1: break Lexema2: - - -
+Token 104: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 105: OPESP Lexema: } Lexema1: LLD Lexema2: - - -
+Token 106: PALRE Lexema: println Lexema1: println Lexema2: - - -
+Token 107: OPESP Lexema: ( Lexema1: PIZ Lexema2: - - -
+Token 108: ID Lexema: dayString Lexema1: ID Lexema2: dayString
+Token 109: OPESP Lexema: ) Lexema1: PDE Lexema2: - - -
+Token 110: OPESP Lexema: ; Lexema1: DEL Lexema2: - - -
+Token 111: OPESP Lexema: } Lexema1: LLD Lexema2: - - -
+Token 112: OPESP Lexema: } Lexema1: LLD Lexema2: - - -
